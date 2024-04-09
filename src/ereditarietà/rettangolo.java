@@ -11,7 +11,7 @@ public class rettangolo extends forma {
         System.out.println("l'area è:" + area);
     }
 
-    public void rettangolo(double lunghezza, double larghezza) {
+    public rettangolo(double lunghezza, double larghezza) {
         this.lunghezza = lunghezza;
         this.larghezza = larghezza;
 

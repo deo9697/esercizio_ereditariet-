@@ -10,7 +10,7 @@ public class ex2 {
         forma forma = new forma();
         forma.calcolaArea();
 
-        rettangolo rettangolo = new rettangolo();
+        rettangolo rettangolo = new rettangolo(2.0 ,2.1);
         rettangolo.calcolaArea();
 
     }
