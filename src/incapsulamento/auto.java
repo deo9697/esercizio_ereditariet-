@@ -1,3 +1,5 @@
+package incapsulamento;
+
 public class auto {
 
     private String targa;
@@ -42,9 +44,9 @@ public class auto {
 
     @Override
     public String toString() {
-        return "auto{" +
+        return "incapsulamento.auto{" +
                 "targa='" + targa + '\'' +
-                ", auto='" + auto + '\'' +
+                ", incapsulamento.auto='" + auto + '\'' +
                 ", modello='" + modello + '\'' +
                 ", cilindrata=" + cilindrata +
                 '}';

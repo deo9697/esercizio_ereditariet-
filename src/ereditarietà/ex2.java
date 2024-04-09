@@ -1,7 +1,7 @@
-/*Scrivere un programma che contenga una classe chiamata Forma ed un metodo chiamato
- calcolaArea() che stampi l'area della forma.
+package ereditarietà;/*Scrivere un programma che contenga una classe chiamata Forma ed un metodo chiamato
+ calcolaArea() che stampi l'area della ereditarietà.forma.
 Crea poi una sottoclasse chiamata Rettangolo che fa override del metodo calcolaArea()
- per calcolare l'area del rettangolo.*/
+ per calcolare l'area del ereditarietà.rettangolo.*/
 
 
 public class ex2 {

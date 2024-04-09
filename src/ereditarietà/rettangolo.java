@@ -1,3 +1,5 @@
+package ereditarietà;
+
 public class rettangolo extends forma {
     private double lunghezza;
 
