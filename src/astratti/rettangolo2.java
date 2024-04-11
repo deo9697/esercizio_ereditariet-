@@ -1,3 +1,5 @@
+package astratti;
+
 public class rettangolo2 extends formastratta {
 
     private double altezza;

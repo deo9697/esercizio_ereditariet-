@@ -1,3 +1,7 @@
+package eserciziprofdevelhope;
+
+import eserciziprofdevelhope.articolo;
+
 import java.util.Arrays;
 
 public class carrello {
@@ -28,7 +32,7 @@ return prezzoFinale;
 
     @Override
     public String toString() {
-        return "carrello{" +
+        return "eserciziprofdevelhope.carrello{" +
                 "articoli=" + Arrays.toString(articoli) +
                 '}';
     }

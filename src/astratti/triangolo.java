@@ -1,3 +1,5 @@
+package astratti;
+
 public class triangolo extends formastratta {
 
     private double base;

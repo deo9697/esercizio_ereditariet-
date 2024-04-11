@@ -1,3 +1,5 @@
+package eserciziprofdevelhope;
+
 public class articolo {
     private final String nome;
 
@@ -13,7 +15,7 @@ public class articolo {
 
     @Override
     public String toString() {
-        return "articolo{" +
+        return "eserciziprofdevelhope.articolo{" +
                 "nome='" + nome + '\'' +
                 ", prezzo=" + prezzo +
                 ", iva=" + iva +
