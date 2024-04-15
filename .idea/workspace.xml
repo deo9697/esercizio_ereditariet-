@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc0781bc-c4ce-44bf-8da5-3b5fa6500637" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ereditarietà2/ex2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ereditarietà2/ex2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,9 +128,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.ex2" />
         <item itemvalue="Application.tutorex" />
-        <item itemvalue="Application.Main" />
         <item itemvalue="Application.main" />
         <item itemvalue="Application.esercizi" />
       </list>
